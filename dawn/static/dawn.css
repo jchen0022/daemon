@@ -1,4 +1,11 @@
-.editing {
-  outline: 0;
-  border: 1px solid black;
+.normal {
+  border: 2px solid #dadada;
+  border-radius: 7px;
 }
+
+.editing {
+  outline: none;
+  border-color: #9ecaed;
+  box-shadow: 0 0 10px #9ecaed;
+}
+
